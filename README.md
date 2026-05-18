@@ -214,3 +214,4 @@ Model used.
 
 
 RESULT:
+ Thus, the given article is summarized based on the different prompt technique and different AI tools.
